@@ -6,5 +6,4 @@ public class testProject {
 		
 		System.out.println("from T470");
 	}
-
 }
